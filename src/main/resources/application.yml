@@ -1,0 +1,9 @@
+server:
+    port: 8090
+spring:
+    data:
+        mongodb:
+            database: finalDb
+            host: 13.234.74.67
+            #            host: 172.23.239.78
+            port: 27017
